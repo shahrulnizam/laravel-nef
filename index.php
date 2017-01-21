@@ -1,3 +1,3 @@
 <?php
-echo "test<br>";
+echo "uji<br>";
 echo "ok 123456";
